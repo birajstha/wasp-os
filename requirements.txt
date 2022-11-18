@@ -1,7 +1,0 @@
-Package    Version
----------- -------
-numpy      1.23.4
-Pillow     9.3.0
-pip        22.3.1
-PySDL2     0.9.14
-setuptools 62.6.0
